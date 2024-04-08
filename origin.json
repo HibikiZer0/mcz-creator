@@ -1,0 +1,63 @@
+{
+    "meta": {
+        "id": 0,
+        "creator": "",
+        "cover": "",
+        "background": "",
+        "version": "",
+        "preview": 0,
+        "mode": 7,
+        "song": {
+            "id": 0,
+            "title": "",
+            "artist": "",
+            "titleorg": "",
+            "file": "",
+            "bpm": 200.0
+        },
+        "mode_ext": {
+            "column": 0,
+            "bar_begin": 0,
+            "speed": 0
+        },
+        "aimode": ""
+    },
+    "time": [
+        {
+            "beat": [
+                0,
+                0,
+                1
+            ],
+            "bpm": 200.0,
+            "delay": 0.0
+        }
+    ],
+    "note": [
+        {
+            "beat": [
+                0,
+                0,
+                1
+            ],
+            "x": 50
+        },
+        {
+            "beat": [
+                0,
+                0,
+                1
+            ],
+            "x": 50
+        },
+        {
+            "beat": [
+                0,
+                0,
+                1
+            ],
+            "type": 1,
+            "sound": ""
+        }
+    ]
+}
